@@ -2,7 +2,15 @@
 
 Signal PH is a cellular coverage intelligence platform for the Philippines. It helps people understand signal quality at a location or along a route, compare providers, identify weak-signal areas, and choose a better SIM for a trip.
 
-> Screenshot coming soon — add the project screenshot here.
+## Screenshots
+
+### Landing page
+
+![Signal PH landing page](docs/screenshots/signal_1.png)
+
+### Coverage forecast dashboard
+
+![Signal PH coverage forecast dashboard](docs/screenshots/signal_2.png)
 
 ## Features
 
