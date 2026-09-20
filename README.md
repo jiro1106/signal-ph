@@ -108,19 +108,3 @@ VITE_LFM_MODEL_URL=/model/LFM2.5-350M.i1-Q6_K.gguf
 ```
 
 For a server-hosted LFM, set `VITE_LFM_MODE=server`, `VITE_LFM_BASE_URL`, and `VITE_LFM_MODEL_NAME`.
-
-## API and MCP tools
-
-The backend exposes standard health and analysis endpoints, including:
-
-- `GET /`
-- `GET /health`
-- `GET /info`
-- `POST /analyze/point`
-- `POST /analyze/route`
-
-The MCP endpoint supports:
-
-- `analyze_point`
-- `analyze_route`
-- `submit_signal_report`
